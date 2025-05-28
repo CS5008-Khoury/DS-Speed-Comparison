@@ -6,6 +6,33 @@ second week will be adding a new data structure, and comparing the three using a
 There is a lot of code for this assignment, but most of the assignment code is provided for you. It will be important to go through the code, but then
 take a breath and remind yourself you are only writing code for a small part of the total assignment. 
 
+- [Vector, List, and Binary Search Tree Speed Comparison](#vector-list-and-binary-search-tree-speed-comparison)
+  - [Learning Objectives](#learning-objectives)
+  - [Provided Code](#provided-code)
+  - [Part 1 (Week 1): Sequential Data Structures - Vector and LinkedList](#part-1-week-1-sequential-data-structures---vector-and-linkedlist)
+    - [Stretch Goal](#stretch-goal)
+  - [Part 2 (Week 2): Binary Search Tree](#part-2-week-2-binary-search-tree)
+  - [Part 3 (Week 2): Speed Comparison and Report](#part-3-week-2-speed-comparison-and-report)
+  - [📝 Grading Rubric](#-grading-rubric)
+    - [Submission Reminder 🚨](#submission-reminder-)
+  - [📚 Resources](#-resources)
+    - [Linked List Resources](#linked-list-resources)
+    - [BST Resources](#bst-resources)
+    - [Markdown Resources](#markdown-resources)
+    - [Makefile](#makefile)
+
+
+## Learning Objectives
+
+For this assignment, you will learn
+* Implement Vector and List as sorted structures
+* Implement a BST
+* Run the code on large data sets
+* Timing various operations
+* Comparing the time outputs and critically thinking about the differences
+
+Since there are a lot of files with this assignment, let's first examine the files you have:
+
 
 ## Provided Code
 
@@ -64,6 +91,7 @@ After getting the data, you will want to work on your [Report](../Report.md). Al
    * LinkedList functions properly add, find, and remove elements
    * BST functions properly add, find, convert to string, and convert to array.
 3. Meets  (MG)
+   * Readme.md completed  (note: without readme, they can't grade the rest)
    * Implements functions properly included Binary Search for SortedVector and using recursion for depth first searches.
    * Contains proper BigO table documenting the worse case for each data structure function (as defined in Report)
    * Contains data table of run results with at least 15 different values for N, and a noticeable differences in speeds from lower N to higher N for some of the data structures. 
@@ -73,7 +101,7 @@ After getting the data, you will want to work on your [Report](../Report.md). Al
    * Answers questions related to the provided code.
    * Answers questions about the data structures, correctly.
    * Provides answers to deeper thinking questions, related to the data structures and speed comparison.
-   * Readme.md completed, technical interview, and coding practice question answered (and file provided)
+   * Technical interview, and coding practice question answered with file provided
 
 
 AG - Auto-graded  
